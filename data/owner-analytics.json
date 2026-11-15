@@ -1,0 +1,117 @@
+{
+  "registeredUsers": [
+    "test_vis_1",
+    "test_vis_2",
+    "guest_device",
+    "u_b548b512-4b1"
+  ],
+  "dailyVisitors": {
+    "2026-11-15": [
+      "test_vis_1",
+      "test_vis_2",
+      "guest_device",
+      "u_b548b512-4b1"
+    ]
+  },
+  "dailyRevenue": {},
+  "dailyActions": {
+    "2026-11-15": 9
+  },
+  "revenueBreakdown": {
+    "subscriptionInr": 0,
+    "walletInr": 0,
+    "adInr": 0
+  },
+  "subscribers": {
+    "builder299": 0,
+    "video499": 0,
+    "music500": 0,
+    "superVip999": 0
+  },
+  "counters": {
+    "adViews": 0,
+    "referralsClaimed": 1,
+    "referralShares": 0,
+    "searches": 0,
+    "builds": 0,
+    "songs": 0,
+    "videos": 2
+  },
+  "claimedRefVisitors": [
+    "test_vis_2"
+  ],
+  "logs": [
+    {
+      "id": "1f0fb48d-71e0-413f-9a51-201022534937",
+      "visitorId": "guest_device",
+      "type": "video_create",
+      "label": "AI Video (story, 9:16, Cinematic, 5s, Sad Emotional): Romantic Rain & Rose Petals",
+      "amountInr": 0,
+      "timestamp": 1794756163811
+    },
+    {
+      "id": "e814dd8d-d8d3-4710-a5c0-4f561e66255a",
+      "visitorId": "u_b548b512-4b1",
+      "type": "visit",
+      "label": "AI1999 Home",
+      "amountInr": 0,
+      "timestamp": 1794755995717
+    },
+    {
+      "id": "2c074a21-a59c-4e13-b5fc-c4797e9cbb54",
+      "visitorId": "u_b548b512-4b1",
+      "type": "visit",
+      "label": "AI1999 Home",
+      "amountInr": 0,
+      "timestamp": 1794755981292
+    },
+    {
+      "id": "25235532-0e79-49f9-a76a-da2c2b37ce3b",
+      "visitorId": "u_b548b512-4b1",
+      "type": "visit",
+      "label": "AI1999 Home",
+      "amountInr": 0,
+      "timestamp": 1794755975037
+    },
+    {
+      "id": "2cbf3684-d55a-4ef8-9502-43275b1efea6",
+      "visitorId": "u_b548b512-4b1",
+      "type": "visit",
+      "label": "AI1999 Home",
+      "amountInr": 0,
+      "timestamp": 1794755471993
+    },
+    {
+      "id": "60e973fd-8c5b-4163-8b60-877bd5ab0d98",
+      "visitorId": "u_b548b512-4b1",
+      "type": "visit",
+      "label": "AI1999 Home",
+      "amountInr": 0,
+      "timestamp": 1794754726813
+    },
+    {
+      "id": "cdc70cf6-5a26-4208-abfd-4099db39333e",
+      "visitorId": "guest_device",
+      "type": "video_create",
+      "label": "AI Video (Cinematic, 5s · veo): Walking in sunny park",
+      "amountInr": 0,
+      "timestamp": 1794742631967
+    },
+    {
+      "id": "36b5c297-188c-47f1-9460-28083399c406",
+      "visitorId": "test_vis_2",
+      "type": "referral_claim",
+      "label": "Viral referral claimed (AI99TEST) · +2 Builder +2 Music credits",
+      "amountInr": 0,
+      "timestamp": 1794742631611
+    },
+    {
+      "id": "07278537-b812-47ed-bd35-4d15d8883dc9",
+      "visitorId": "test_vis_1",
+      "type": "visit",
+      "label": "Health Verification",
+      "amountInr": 0,
+      "timestamp": 1794742631501
+    }
+  ]
+}

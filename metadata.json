@@ -1,0 +1,8 @@
+{
+  "name": "AI",
+  "description": "AI1999 by Sunil Singh - Super AI Search, Chargpt, AI App Builder, AI Music Studio & Games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
